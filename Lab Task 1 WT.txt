@@ -1,0 +1,100 @@
+1.
+<PRODUCTS>
+    <PRODUCT>
+        <ID>11</ID>
+        <NAME>Samsung</NAME>
+        <UNIT_PRICE>35000</UNIT_PRICE>
+        <STOCK>50</STOCK>
+        <STATUS>1</STATUS>
+    </PRODUCT>
+    <PRODUCT>
+        <ID>20</ID>
+        <NAME>HTC</NAME>
+        <UNIT_PRICE>65300</UNIT_PRICE>
+        <STOCK>35</STOCK>
+        <STATUS>0</STATUS>
+    </PRODUCT>
+    <PRODUCT>
+        <ID>23</ID>
+        <NAME>Nokia</NAME>
+        <UNIT_PRICE>25100</UNIT_PRICE>
+        <STOCK>100</STOCK>
+        <STATUS>1</STATUS>
+    </PRODUCT>
+</PRODUCTS>
+
+2.
+<STUDENTS>
+    <STUDENT>
+        <SL_NO>23</SL_NO>
+        <NAME>John Carter</NAME>
+        <ADMISSION_DATE>
+            <DAY>25</DAY>
+            <MONTH>12</MONTH>
+            <YEAR>2015</YEAR>
+        </ADMISSION_DATE>
+    </STUDENT>
+    <STUDENT>
+        <SL_NO>29</SL_NO>
+        <NAME>Bob Marshal</NAME>
+        <ADMISSION_DATE>
+            <DAY>13</DAY>
+            <MONTH>01</MONTH>
+            <YEAR>1999</YEAR>
+        </ADMISSION_DATE>
+    </STUDENT>
+    <STUDENT>
+        <SL_NO>35</SL_NO>
+        <NAME>Clark Kent</NAME>
+        <ADMISSION_DATE>
+            <DAY>17</DAY>
+            <MONTH>06</MONTH>
+            <YEAR>2005</YEAR>
+        </ADMISSION_DATE>
+    </STUDENT>
+</STUDENTS>
+
+3.
+<EMPLOYEES>
+    <EMPLOYEE>
+        <ID>1</ID>
+        <NAME>John Doe</NAME>
+        <ADDRESS>
+            <FLAT></FLAT>
+            <HOUSE>25</HOUSE>
+            <ROAD>12</ROAD>
+            <AREA>Banani</AREA>
+            <DIVISION>Dhaka</DIVISION>
+        </ADDRESS>
+        <DEPARTMENT>Sales</DEPARTMENT>
+        <SALARY>$20000</SALARY>
+    </EMPLOYEE>
+     <EMPLOYEE>
+        <ID>2</ID>
+        <NAME>Mark Zuckerberg</NAME>
+        <ADDRESS>
+            <FLAT>A1</FLAT>
+            <HOUSE>20</HOUSE>
+            <ROAD>18</ROAD>
+            <AREA>Mirpur</AREA>
+            <DIVISION>Dhaka</DIVISION>
+        </ADDRESS>
+        <DEPARTMENT>Accounts</DEPARTMENT>
+        <SALARY>$12000</SALARY>
+    </EMPLOYEE>
+     <EMPLOYEE>
+        <ID>3</ID>
+        <NAME>Ala Voski</NAME>
+        <ADDRESS>
+            <FLAT></FLAT>
+            <HOUSE>38</HOUSE>
+            <ROAD>3</ROAD>
+            <AREA>Motijheel</AREA>
+            <DIVISION></DIVISION>
+        </ADDRESS>
+        <DEPARTMENT>Human Resource</DEPARTMENT>
+        <SALARY>$30000</SALARY>
+    </EMPLOYEE>
+</EMPLOYEES>
+
+
