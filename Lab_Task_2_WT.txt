@@ -1,4 +1,3 @@
-2.
 <STUDENTS>
     <STUDENT>
         <SL_NO>23</SL_NO>
